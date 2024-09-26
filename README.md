@@ -1,1 +1,3 @@
-# lanchonete-lambda-define-auth-challenge
+# Lambda define auth challenge
+
+Acionador lambda para definir desafio de autenticação usando AWS Cognito.
