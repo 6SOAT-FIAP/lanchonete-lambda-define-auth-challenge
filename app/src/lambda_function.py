@@ -1,6 +1,6 @@
 # Acionador lambda para definir desafio de autenticação
 
-def define_auth_challenge(event, context):
+def lambda_handler(event, context):
 
     session = event['request']['session']
     
