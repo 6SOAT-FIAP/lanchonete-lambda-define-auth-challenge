@@ -1,0 +1,1 @@
+# lanchonete-lambda-define-auth-challenge
