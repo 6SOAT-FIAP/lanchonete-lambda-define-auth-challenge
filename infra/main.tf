@@ -1,7 +1,3 @@
-provider "aws" {
-  region = var.aws_region
-}
-
 resource "aws_lambda_function" "lanchonete_lambda_auth" {
   function_name    = var.lambda_function_name
   handler          = var.lambda_handler
